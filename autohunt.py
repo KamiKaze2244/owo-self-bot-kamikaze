@@ -15,7 +15,7 @@ print("""
  | (_) \ V  V / (_) | \__ \  __/ | |   | |_) | (_) | |_ 
   \___/ \_/\_/ \___/  |___/\___|_|_|   |_.__/ \___/ \__|
 """)
-time.sleep(2)
+time.sleep(3)
 print("CodingBy = KamiKaze#0011")
 print("\n")
 time.sleep(3)
